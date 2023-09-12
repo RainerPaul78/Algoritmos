@@ -4,7 +4,7 @@ Algoritmo CalculoBasico
 	Leer Numx 
 	Escribir " ingrese el segundo numero: "
 	Leer Numy 
-	division = Numx / Numy
-	Escribir " el resultado de la division es: " division
+	Suma = Numx + Numy
+	Escribir " el resultado de la Suma es: " Suma
 	
 FinAlgoritmo
